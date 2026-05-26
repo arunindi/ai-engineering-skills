@@ -12,7 +12,7 @@ Practical, code-first reference guides for building production AI systems. Each 
 | [`langgraph.md`](./langgraph.md) | Stateful workflows, conditional routing, retries, human-in-the-loop, persistence |
 | [`rag.md`](./rag.md) | Document loading, chunking, embeddings, vector stores, retrieval, re-ranking, evaluation |
 | [`mcp.md`](./mcp.md) | Model Context Protocol — servers, tools, resources, transports, building integrations |
-| [`aws.md`](./aws.md) | AWS services for AI/backend systems — ECS, S3, SQS, SNS, EventBridge, RDS, ALB, IaC |
+| [`ai-agent-optimization.md`](./ai-agent-optimization.md) | Architecture patterns, cost/latency/reliability optimization, production patterns |
 
 ---
 
